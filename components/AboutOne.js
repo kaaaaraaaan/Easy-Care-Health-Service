@@ -16,7 +16,7 @@ export default class AboutOne extends React.Component {
                                 <div className="col-lg-6">
                                     <div className="about-one__images wow fadeInLeft"
                                          data-wow-animation-duration="1500ms">
-                                        <img src="assets/images/resources/about-1-1.PNG" alt=""/>
+                                        <img src="assets/images/resources/about-1-1.jpg" alt=""/>
                                     </div>
                                 </div>
                                 <div className="col-lg-6">
