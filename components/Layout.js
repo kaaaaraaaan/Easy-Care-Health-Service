@@ -440,7 +440,7 @@ export default class Layout extends React.Component {
                     <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicons/favicon-32x32.png" />
                     <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicons/favicon-16x16.png" />
 
-                    <link href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700%7CBarlow:300,400,500,600,700,800,900%7CPT+Sans:400,700&display=swap" rel="stylesheet" />
+                    <link href="https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap" rel="stylesheet" />
                     <link rel="stylesheet" href="/assets/css/animate.min.css" />
                     <link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
                     <link rel="stylesheet" href="/assets/css/owl.carousel.min.css" />

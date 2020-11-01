@@ -26,7 +26,7 @@ export default class AboutOne extends React.Component {
                                                 <i className="fas fa-clinic-medical"></i>
                                             </div>
                                             <div className="about-one__icon-content">
-                                                <p>The Number One Clinic In Dharan</p>
+                                                <p>The Number One Clinic For Piles</p>
                                             </div>
                                         </div>
                                         <p>Getting an accurate diagnosis can be one of the most impactful experiences that you can have — especially if you've been in search of that answer for a while. We can help you get there</p>

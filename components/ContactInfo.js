@@ -19,7 +19,7 @@ export default class ContactInfo extends React.Component {
                                 <div className="contact-info-one__box-inner">
 
                                     <h3>Visit Our Nearest Branch</h3>
-                                    <p>Kathmandu , Dharan , Itahari , Duhabi </p>
+                                    <p>Kathmandu, Dharan , Itahari , Duhabi </p>
 
                                 </div>
                             </div>

@@ -236,7 +236,7 @@ export default class Testimonial extends React.Component {
                                              data-thumb-img="/assets/images/testimonials/testimonials-1-3.jpg">
                                             <p className="testimonials-one__text">meroni xorako niko vaxa hunxa 6month vo baljeko xain numbr chaiyema ma dinxu hai drn xatachokma xa</p>
                                             <div className="testimonials-one__bottom">
-                                                <h3 className="testimonials-one__title">Xuchi Magarnir</h3>
+                                                <h3 className="testimonials-one__title">Xuchi Magarni</h3>
                                             </div>
                                         </div>
                                     </div>

@@ -31,8 +31,8 @@
 # Common
 --------------------------------------------------------------*/
 :root {
-  --thm-font: 'Barlow', sans-serif;
-  --heading-font: 'Amatic SC';
+  --thm-font: 'ABeeZee', sans-serif;
+  --heading-font: 'ABeeZee';
   --thm-base: #0c75d8;
   --thm-base-rgb: 12, 117, 216;
   --thm-primary: #ffd240;
@@ -2215,7 +2215,7 @@ h6 {
 .about-two__content > p {
   margin: 0;
   color: #848895;
-  font-size: 18px;
+  font-size: 10px;
   line-height: 36px;
   font-weight: 500;
 }
@@ -2272,7 +2272,7 @@ h6 {
 .about-two__icon-text h3 {
   margin: 0;
   color: var(--thm-black);
-  font-size: 30px;
+  font-size: 20px;
   font-weight: bold;
 }
 
@@ -4184,8 +4184,8 @@ h6 {
 }
 
 .contact-info-one__box h3 {
-  font-size: 16px;
-  font-weight: 500;
+  font-size: 18px;
+  font-weight: 400;
   color: #fff;
   font-family: var(--thm-font);
   line-height: 1em;
@@ -4194,7 +4194,7 @@ h6 {
 
 .contact-info-one__box p {
   font-family: var(--heading-font);
-  font-size: 30px;
+  font-size: 22px;
   color: #fff;
   font-weight: bold;
   margin: 0;
@@ -4416,7 +4416,7 @@ h6 {
 .testimonials-one .owl-carousel .owl-item {
   opacity: 0;
   -webkit-transition: 500ms;
-  transition: 500ms;
+  transition: 1500ms;
   visibility: hidden;
 }
 
@@ -4430,7 +4430,7 @@ h6 {
 }
 
 .testimonials-one .block-title {
-  margin-bottom: 30px;
+  margin-bottom: 60px;
 }
 
 .testimonials-one__image {
@@ -4488,7 +4488,7 @@ h6 {
 
 .testimonials-one__text {
   margin: 0;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 44px;
   color: #848895;
 }
@@ -4505,7 +4505,7 @@ h6 {
 
 .testimonials-one__title {
   margin: 0;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: bold;
   color: var(--thm-black);
 }

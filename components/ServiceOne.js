@@ -51,7 +51,7 @@ export default class ServiceOne extends React.Component {
 
                                     <div className="service-one__content">
                                         <h3><a href="#">Unparalleled expertise </a></h3>
-                                        <p> Easy Care Health Service experts are some of the best in the world. In the U.S. News & World Report rankings of top hospitals, Mayo Clinic is consistently ranked among the top hospitals in the nation. </p>
+                                        <p> Easy Care Health Service experts are some of the best in the world. <br />Easy Care Health Service is consistently ranked among the top hospitals in the nation. </p>
                                     </div>
                                 </div>
                             </div>

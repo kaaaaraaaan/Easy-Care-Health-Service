@@ -60,7 +60,7 @@ export default class Team extends React.Component {
                                 <div className="team-one__image">
                                     <img src="/assets/images/team/team-1-5.jpg" alt=""/>
                                 </div>
-                                <h3>Dr. Anju Deo</h3>
+                                <h3>Dr. Sunita Karki</h3>
                                 <p>छाला तथा यौन रोग बिशेषज्ञ</p>
                             </div>
                         </div>

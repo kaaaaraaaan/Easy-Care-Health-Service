@@ -4,7 +4,6 @@ import Footer from "../components/Footer";
 import PageHeader from "../components/PageHeader";
 import PreventionTwo from "../components/PreventionTwo";
 import HandWash from "../components/HandWash";
-import CallToAction from "../components/CallToAction";
 
 
 
@@ -16,8 +15,6 @@ const PreventionPage = () => (
         <PageHeader title="Prevention" />
         <PreventionTwo />
         <HandWash />
-        <CallToAction />
-
 
         <Footer />
 

@@ -7,7 +7,6 @@ import FunFactOne from "../components/FunFactOne";
 import ServiceOne from "../components/ServiceOne";
 import Footer from "../components/Footer";
 import AboutTwo from "../components/AboutTwo";
-import FaqOne from "../components/FaqOne";
 import Testimonial from "../components/Testimonial";
 
 
