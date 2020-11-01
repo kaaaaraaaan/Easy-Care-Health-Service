@@ -142,60 +142,36 @@ export default class Testimonial extends React.Component {
                                         <div className="testimonials-one__image">
                                             <img src="/assets/images/testimonials/testimonials-1-1.jpg"
                                                  className="testimonials-one__thumb" alt="Awesome Image" />
-                                            <div className="testimonials-one__qoute">
-                                                <img src="/assets/images/testimonials/testimonials-qoute-1-1.png"
-                                                     alt="Awesome Image" />
-                                            </div>
                                         </div>
                                     </div>
                                     <div className="item clearfix">
                                         <div className="testimonials-one__image">
                                             <img src="/assets/images/testimonials/testimonials-1-2.jpg"
                                                  className="testimonials-one__thumb" alt="Awesome Image" />
-                                            <div className="testimonials-one__qoute">
-                                                <img src="/assets/images/testimonials/testimonials-qoute-1-1.png"
-                                                     alt="Awesome Image" />
-                                            </div>
                                         </div>
                                     </div>
                                     <div className="item clearfix">
                                         <div className="testimonials-one__image">
                                             <img src="/assets/images/testimonials/testimonials-1-3.jpg"
                                                  className="testimonials-one__thumb" alt="Awesome Image" />
-                                            <div className="testimonials-one__qoute">
-                                                <img src="/assets/images/testimonials/testimonials-qoute-1-1.png"
-                                                     alt="Awesome Image" />
-                                            </div>
                                         </div>
                                     </div>
                                     <div className="item clearfix">
                                         <div className="testimonials-one__image">
                                             <img src="/assets/images/testimonials/testimonials-1-4.jpg"
                                                  className="testimonials-one__thumb" alt="Awesome Image" />
-                                            <div className="testimonials-one__qoute">
-                                                <img src="/assets/images/testimonials/testimonials-qoute-1-1.png"
-                                                     alt="Awesome Image" />
-                                            </div>
                                         </div>
                                     </div>
                                     <div className="item clearfix">
                                         <div className="testimonials-one__image">
                                             <img src="/assets/images/testimonials/testimonials-1-5.jpg"
                                                  className="testimonials-one__thumb" alt="Awesome Image" />
-                                            <div className="testimonials-one__qoute">
-                                                <img src="/assets/images/testimonials/testimonials-qoute-1-1.png"
-                                                     alt="Awesome Image" />
-                                            </div>
                                         </div>
                                     </div>
                                     <div className="item clearfix">
                                         <div className="testimonials-one__image">
                                             <img src="/assets/images/testimonials/testimonials-1-6.jpg"
                                                  className="testimonials-one__thumb" alt="Awesome Image" />
-                                            <div className="testimonials-one__qoute">
-                                                <img src="/assets/images/testimonials/testimonials-qoute-1-1.png"
-                                                     alt="Awesome Image" />
-                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -217,7 +193,7 @@ export default class Testimonial extends React.Component {
                                         <div className="testimonials-one__single"
                                              data-thumb-img="/assets/images/testimonials/testimonials-1-1.jpg">                                            
                                             <div className="testimonials-one__bottom">
-                                                <h3 className="testimonials-one__title">Shailendra Mandal</h3>
+
                                             </div>
                                         </div>
                                     </div>
@@ -225,7 +201,6 @@ export default class Testimonial extends React.Component {
                                         <div className="testimonials-one__single"
                                              data-thumb-img="/assets/images/testimonials/testimonials-1-2.jpg">
                                             <div className="testimonials-one__bottom">
-                                                <h3 className="testimonials-one__title">Sapna Lwagun</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -233,7 +208,6 @@ export default class Testimonial extends React.Component {
                                         <div className="testimonials-one__single"
                                              data-thumb-img="/assets/images/testimonials/testimonials-1-3.jpg">                                            
                                             <div className="testimonials-one__bottom">
-                                                <h3 className="testimonials-one__title">Xuchi Magarni</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -241,7 +215,6 @@ export default class Testimonial extends React.Component {
                                         <div className="testimonials-one__single"
                                              data-thumb-img="/assets/images/testimonials/testimonials-1-4.jpg">
                                             <div className="testimonials-one__bottom">
-                                                <h3 className="testimonials-one__title">Bendass Tamoong</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -249,7 +222,6 @@ export default class Testimonial extends React.Component {
                                         <div className="testimonials-one__single"
                                              data-thumb-img="/assets/images/testimonials/testimonials-1-5.jpg">                                            
                                             <div className="testimonials-one__bottom">
-                                                <h3 className="testimonials-one__title">Lalita Rai</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -257,7 +229,6 @@ export default class Testimonial extends React.Component {
                                         <div className="testimonials-one__single"
                                              data-thumb-img="/assets/images/testimonials/testimonials-1-6.jpg">                                          
                                             <div className="testimonials-one__bottom">
-                                                <h3 className="testimonials-one__title">Riju Kalpana Luitel</h3>
                                             </div>
                                         </div>
                                     </div>
