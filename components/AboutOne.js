@@ -30,13 +30,17 @@ export default class AboutOne extends React.Component {
                                             </div>
                                         </div>
                                         <p>Getting an accurate diagnosis can be one of the most impactful experiences that you can have — especially if you've been in search of that answer for a while. We can help you get there</p>
-
+                                        <br /><h3>Our Facilities</h3>
                                         <ul className="list-unstyled about-one__list">
-                                            <li><i className="vimns-icon-tick"></i> Expertise In Treating Piles
+                                            <li><i className="vimns-icon-tick"></i> Pharmacy
                                             </li>
-                                            <li><i className="vimns-icon-tick"></i> The Right Answers
+                                            <li><i className="vimns-icon-tick"></i> OPD
                                             </li>
-                                            <li><i className="vimns-icon-tick"></i> Help Write The Next Chapter In Our History Of Healings
+                                            <li><i className="vimns-icon-tick"></i> Pathology Lab
+                                            </li>
+                                            <li><i className="vimns-icon-tick"></i> X-Ray
+                                            </li>
+                                            <li><i className="vimns-icon-tick"></i> Video X-Ray
                                             </li>
                                         </ul>
                                     </div>

@@ -22,10 +22,10 @@ export default class AboutTwo extends React.Component {
                                     <div className="about-two__icon-wrap">
                                         <div className="about-two__icon-single">
                                             <div className="about-two__icon">
-                                                <i className="vimns-icon-screw"></i>
+                                                <i className="vimns-icon-work"></i>
                                             </div>
                                             <div className="about-two__icon-text">
-                                                <h3>Kalimati <br/> Kathmandu</h3>
+                                                <h3>Kathmandu <br/> Kalimati</h3>
                                             </div>
                                         </div>
                                         <div className="about-two__icon-single">
@@ -33,23 +33,23 @@ export default class AboutTwo extends React.Component {
                                                 <i className="vimns-icon-work"></i>
                                             </div>
                                             <div className="about-two__icon-text">
-                                                <h3>Chata Chauk <br/> Dharan</h3>
+                                                <h3>Dharan <br/> Chatachauk</h3>
                                             </div>
                                         </div>
                                         <div className="about-two__icon-single">
                                             <div className="about-two__icon">
-                                                <i className="vimns-icon-screw"></i>
+                                                <i className="vimns-icon-work"></i>
                                             </div>
                                             <div className="about-two__icon-text">
-                                                <h3>Near Pranami Mandir <br/> Itahari</h3>
+                                                <h3> Itahari<br/> Near Pranami Mandir</h3>
                                             </div>
                                         </div>
                                         <div className="about-two__icon-single">
                                             <div className="about-two__icon">
-                                                <i className="vimns-icon-screw"></i>
+                                                <i className="vimns-icon-work"></i>
                                             </div>
                                             <div className="about-two__icon-text">
-                                                <h3>Front Of Bajaj ShowRoom <br/> Duhabi</h3>
+                                                <h3>Duhabi <br/> Front Of Bajaj ShowRoom</h3>
                                             </div>
                                         </div>
                                     </div>

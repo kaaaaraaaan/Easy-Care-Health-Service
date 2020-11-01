@@ -11,7 +11,7 @@ export default class ServiceOne extends React.Component {
             <section className="service-one">
                 <div className="container">
                     <div className="block-title text-center">
-                        <h3>Why Choose Easy Health Care?</h3>
+                        <h3>Why Choose Easy Care Health Service?</h3>
                     </div>
 
                     <div className="row no-gutters">

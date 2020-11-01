@@ -215,8 +215,7 @@ export default class Testimonial extends React.Component {
                                 <div className="owl-carousel owl-theme" id="sync1">
                                     <div className="item">
                                         <div className="testimonials-one__single"
-                                             data-thumb-img="/assets/images/testimonials/testimonials-1-1.jpg">
-                                            <p className="testimonials-one__text">हजुर, मैले पनि पाइल्सको लागि भनेर कत्ति पैसा खर्च गरे, कसैले धागो बाधेर ठिक हुन्छ भन्यो त्यो नि गरे कुनै डाक्टरले ओपेरसन गरेर ठिक हुन्छ भन्यो त्यो नि गराए तर मेरो घाउ अझै बड्दै गयो अनि एक जना मेरो साथीले फेसबुक मार्फत जानकारी गराएर ईजी केयरमा २ वर्ष अगाडी औसधी राखेर उपचार गराए र अहिले सम्म बल्झेको छैन अब फेरी कहिले बल्झिदैन नै भनेका छन् हेरौ</p>
+                                             data-thumb-img="/assets/images/testimonials/testimonials-1-1.jpg">                                            
                                             <div className="testimonials-one__bottom">
                                                 <h3 className="testimonials-one__title">Shailendra Mandal</h3>
                                             </div>
@@ -225,7 +224,6 @@ export default class Testimonial extends React.Component {
                                     <div className="item">
                                         <div className="testimonials-one__single"
                                              data-thumb-img="/assets/images/testimonials/testimonials-1-2.jpg">
-                                            <p className="testimonials-one__text">sachai niko hunx</p>
                                             <div className="testimonials-one__bottom">
                                                 <h3 className="testimonials-one__title">Sapna Lwagun</h3>
                                             </div>
@@ -233,8 +231,7 @@ export default class Testimonial extends React.Component {
                                     </div>
                                     <div className="item">
                                         <div className="testimonials-one__single"
-                                             data-thumb-img="/assets/images/testimonials/testimonials-1-3.jpg">
-                                            <p className="testimonials-one__text">meroni xorako niko vaxa hunxa 6month vo baljeko xain numbr chaiyema ma dinxu hai drn xatachokma xa</p>
+                                             data-thumb-img="/assets/images/testimonials/testimonials-1-3.jpg">                                            
                                             <div className="testimonials-one__bottom">
                                                 <h3 className="testimonials-one__title">Xuchi Magarni</h3>
                                             </div>
@@ -243,7 +240,6 @@ export default class Testimonial extends React.Component {
                                     <div className="item">
                                         <div className="testimonials-one__single"
                                              data-thumb-img="/assets/images/testimonials/testimonials-1-4.jpg">
-                                            <p className="testimonials-one__text">Bina apretion bata garinxa upachaar</p>
                                             <div className="testimonials-one__bottom">
                                                 <h3 className="testimonials-one__title">Bendass Tamoong</h3>
                                             </div>
@@ -251,8 +247,7 @@ export default class Testimonial extends React.Component {
                                     </div>
                                     <div className="item">
                                         <div className="testimonials-one__single"
-                                             data-thumb-img="/assets/images/testimonials/testimonials-1-5.jpg">
-                                            <p className="testimonials-one__text">Dheroi ramro upchar hunx dhukka vayr dekhaunu hola hami pani dhekhayr dhukka vayka xou</p>
+                                             data-thumb-img="/assets/images/testimonials/testimonials-1-5.jpg">                                            
                                             <div className="testimonials-one__bottom">
                                                 <h3 className="testimonials-one__title">Lalita Rai</h3>
                                             </div>
@@ -260,8 +255,7 @@ export default class Testimonial extends React.Component {
                                     </div>
                                     <div className="item">
                                         <div className="testimonials-one__single"
-                                             data-thumb-img="/assets/images/testimonials/testimonials-1-6.jpg">
-                                            <p className="testimonials-one__text">म पनि पायल्सबाट पिडित थिए।मैले पनि easy care health service pvt.ltd दुहबीमा उपचार गराएको लगभग दुई महिनामा पुरै ठिक भयो।अहिले उपचार गराएको 8/9 महिना भयो।अहिलेसम्म ठिक छ।बल्झिएको छैन यदि हजुरहरुलाई पनि यस्ता समस्याले पिडित बनाएको भए ढुक्क भएर सेवा लिन सक्नु हुन्छ।।</p>
+                                             data-thumb-img="/assets/images/testimonials/testimonials-1-6.jpg">                                          
                                             <div className="testimonials-one__bottom">
                                                 <h3 className="testimonials-one__title">Riju Kalpana Luitel</h3>
                                             </div>
