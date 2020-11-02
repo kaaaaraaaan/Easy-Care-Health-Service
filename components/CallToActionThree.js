@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React,{ Component } from 'react';
 
 export default class CallToActionThree extends React.Component {
@@ -18,7 +19,7 @@ export default class CallToActionThree extends React.Component {
                             <div className="cta-three__content">
                                 <h3>Coronavirus disease COVID-19 Alert</h3>
                                 <div className="cta-three__btn-block">
-                                    <a href="contact.html" className="cta-three__btn">Help and Information</a>
+                                    <a href="/prevention" className="cta-three__btn">Help and Information</a>
                                 </div>
                             </div>
                         </div>
