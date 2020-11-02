@@ -175,11 +175,6 @@ export default class Testimonial extends React.Component {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="testimonials-one__button-block">
-                                    <button className="testimonials-one__button__prev-btn"></button>
-                                    <button className="testimonials-one__button__current-btn"></button>
-                                    <button className="testimonials-one__button__next-btn"></button>
-                                </div>
                             </div>
                         </div>
                         <div className="col-lg-6">
