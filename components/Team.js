@@ -21,7 +21,7 @@ export default class Team extends React.Component {
                                 <div className="team-one__image">
                                     <img src="/assets/images/team/team-1-1.jpg" alt=""/>
                                 </div>
-                                <h3>डा. अन्जु डिओ</h3>
+                                <h3>Dr. Anju Deo </h3>
                                 <h4>(बरीष्ठ स्त्री तथा प्रसुती रोग बिशेषज्ञ)</h4>
                             </div>
                         </div>
@@ -32,7 +32,7 @@ export default class Team extends React.Component {
                                     <img src="/assets/images/team/team-1-2.jpg" alt=""/>
                                 </div>
                                 <h3>Dr. Pushkar Deo</h3>
-                                <h4>(एम्. डि. रेडियोलोजिस्ट्) </h4>
+                                <h4>(एम्. डि. रेडियोलोजिस्ट) </h4>
                             </div>
                         </div>
                         <div className="col-lg-3 col-md-6">
@@ -52,7 +52,7 @@ export default class Team extends React.Component {
                                     <img src="/assets/images/team/team-1-4.jpg" alt=""/>
                                 </div>
                                 <h3>Dr. Rajeshwar Yadav</h3>
-                                <h4>(फिजिसियन् )</h4>
+                                <h4>(फिजिसियन )</h4>
                             </div>
                         </div>
                     </div>
@@ -87,7 +87,7 @@ export default class Team extends React.Component {
                                     <img src="/assets/images/team/team-1-7.jpg" alt=""/>
                                 </div>
                                 <h3>Dr. Farendra Shah</h3>
-                                <h4>(नभजात् सिसु तथा बालरोग बिशेषज्ञ)</h4>
+                                <h4>(नवजात शिशु तथा बालरोग बिशेषज्ञ)</h4>
                             </div>
                         </div>
                     </div>

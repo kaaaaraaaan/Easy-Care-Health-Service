@@ -180,7 +180,7 @@ export default class Testimonial extends React.Component {
                         <div className="col-lg-6">
                             <div className="testimonials-one__content">
                                 <div className="block-title text-left">
-                                    <h3>What Different Patients Are <br/> Saying About Us</h3>
+                                    <h3>What Different Patients Are Saying About Us</h3>
                                 </div>
 
                                 <div className="owl-carousel owl-theme" id="sync1">

@@ -30,7 +30,7 @@ export default class AboutThree extends React.Component {
                         </div>
                     </div>
                     <div className="text-center about-three__text">
-                        <p>
+                        <p className="pos_fixed">
                         ✅ पाइल्सको उपचार गराएर पनि ठिक भएको छैन भने अब ढुक्क हुनु होस,<br />
                         ✅ दिसा गर्दा दिसाघरबाट मासु बाहिर निस्कने र दिसा गरे पछी मासु आफै भित्र जाने वा हातले धकेलेर मात्र भित्र जाने <br />
                         ✅ दिसाघरबाट रगत, पिप, पानी बग्ने <br />

@@ -51,7 +51,7 @@ export default class ServiceOne extends React.Component {
 
                                     <div className="service-one__content">
                                         <h3><a href="#">Unparalleled expertise </a></h3>
-                                        <p> Easy Care Health Service experts are some of the best in Nepal. <br />Easy Care Health Service is consistently ranked among the top clinics in the nation. </p>
+                                        <p> Easy Care Health Service experts are some of the best in Nepal. <br /><br />Easy Care Health Service is consistently ranked among the top clinics in the nation. </p>
                                     </div>
                                 </div>
                             </div>
