@@ -34,7 +34,8 @@ export default class BannerOne extends React.Component {
                                 allowfullscreen
                                 title="Keyboard Cat"
                               >
-                            <div className="video-popup banner-one__video-btn"><i className="fa fa-play"></i></a>
+                              </embed>
+                            <div className="video-popup banner-one__video-btn"><i className="fa fa-play"></i>
                         </div>
                         </div>
                         <div className="row">
