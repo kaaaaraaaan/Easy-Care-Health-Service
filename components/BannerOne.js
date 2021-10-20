@@ -36,6 +36,7 @@ export default class BannerOne extends React.Component {
                               >
                             <div className="video-popup banner-one__video-btn"><i className="fa fa-play"></i></a>
                         </div>
+                        </div>
                         <div className="row">
                             <div className="col-lg-6">
                                 <div className="banner-one__content">
