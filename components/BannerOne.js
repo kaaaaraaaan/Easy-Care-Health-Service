@@ -25,18 +25,9 @@ export default class BannerOne extends React.Component {
                 <img src="/assets/images/shapes/banner-bg-shape-1-1.png" alt="" className="banner-one__moc"/>
                     <div className="container">
                         <div className="banner-one__video wow fadeInUp" data-wow-animation-duration="1500ms">
-                              <embed
-                                src="https://www.youtube.com/embed/J---aiyznGQ?autohide=1&autoplay=1"
-                                wmode="transparent"
-                                type="video/mp4"
-                                width="100%" height="100%"
-                                allow="autoplay; encrypted-media; picture-in-picture"
-                                allowfullscreen
-                                title="Keyboard Cat"
-                              >
-                              </embed>
-                            <div className="video-popup banner-one__video-btn"><i className="fa fa-play"></i>
-                        </div>
+                            <img src="/assets/images/resources/video-1-1.jpg" width="639" height="639" alt=""/>
+                            <embed src="https://www.youtube.com/watch?v=0KK-eM8I8bY"
+                                   className="video-popup banner-one__video-btn"><i className="fa fa-play"></i></embed>
                         </div>
                         <div className="row">
                             <div className="col-lg-6">
