@@ -26,8 +26,8 @@ export default class BannerOne extends React.Component {
                     <div className="container">
                         <div className="banner-one__video wow fadeInUp" data-wow-animation-duration="1500ms">
                             <img src="/assets/images/resources/video-1-1.jpg" width="639" height="639" alt=""/>
-                            <embed src="https://www.youtube.com/watch?v=0KK-eM8I8bY"
-                                   className="video-popup banner-one__video-btn"><i className="fa fa-play"></i></embed>
+                            <a href="https://www.youtube.com/watch?v=0niXJOcjL5U&list=PLoBU8po_SBvf1BZwGO8cxjllWKKShkioP&index=1&t=8s"
+                                   className="video-popup banner-one__video-btn"><i className="fa fa-play"></i></a>
                         </div>
                         <div className="row">
                             <div className="col-lg-6">
