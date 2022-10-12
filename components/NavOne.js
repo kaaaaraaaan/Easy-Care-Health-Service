@@ -48,7 +48,7 @@ export default class NavOne extends React.Component {
                         </div>
                         <div className="main-nav__right">
                             <Link href="/prevention">
-                                <a className="main-nav__btn">COVID-19 Prevention</a>
+                                <a className="main-nav__btn">COVID-19</a>
                             </Link>
                         </div>
                     </div>
