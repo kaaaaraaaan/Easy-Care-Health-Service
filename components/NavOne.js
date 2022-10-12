@@ -42,7 +42,7 @@ export default class NavOne extends React.Component {
                                 <i className="vimns-icon-phone"></i>
                             </div>
                             <div className="main-nav__cta-content">
-                                <h3><a href="tel:666-888-0000">666 888 0000</a></h3>
+                                <h3><a href="tel:+9779807312345">+9779807312345</a></h3>
                                 <p>Helpline</p>
                             </div>
                         </div>
